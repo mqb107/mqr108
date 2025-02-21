@@ -1,0 +1,72 @@
+.red{
+    color: red;
+}
+
+
+h1{
+    border: 3px solid red;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(184, 184, 248);
+}
+
+
+
+.green{
+    color: darkgreen;
+}
+
+.subtitle{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+
+.rasim{
+width: 600px;
+height: 400px;
+}
+
+
+.yalov{
+  background-color:y ;  
+}
+
+
+.box{
+    width: 1300px; 
+    background-color: black;
+}
+
+.title{
+  color: darkgreen;
+}
+
+.button{
+    background-color: cornflowerblue;
+    border: none;
+    width: 200px;
+    height:  30px;
+    color: white
+}
+
+
+table{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    width: 1500px;
+    height: 50px;
+}
+
+th,td{
+    border: 1px solid #000;
+}
+
+.tgreen{
+    background-color: darkgreen;
+}
+
+
+
+
